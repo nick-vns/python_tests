@@ -16,5 +16,5 @@
 
  Python Version 3.8.7, check using python3 --version. Created Virtual Environment named "cf-python-base".
 
- ![step 1](Exercise 1.1/step 1.png)
+ ![step1](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%201.png)
  
