@@ -19,6 +19,7 @@
  ![step1](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%201.png)
 
  ## Create Simple Script 
+``` 
 # user's input 1
 a = int(input("Enter a number: "))
 
@@ -30,6 +31,7 @@ c = a + b
 
 # recieve output
 print("Your summary is: ", c)
+```
 
  
  
