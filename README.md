@@ -35,8 +35,9 @@ print("Your summary is: ", c)
 ![step2](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%202.png)
 
 ## Create iPython Shell and Export requirements.txt
-
+Set up iPython shell for cf-python-base using pip to install.
 ![step3](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%203.png)
+Generated requirements.txt from cf-python-base and install it to a new created environment cf-python-copy.
 ![step4](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%205.png)
  
  
