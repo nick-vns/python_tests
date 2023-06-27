@@ -36,7 +36,7 @@ print("Your summary is: ", c)
 
 ## Create iPython Shell and Export requirements.txt
 
-![step3](https://github.com/nick-vns/python_tests/tree/main/Exercise%201.1)
+![step3](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%203.png)
 ![step4](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%205.png)
  
  
