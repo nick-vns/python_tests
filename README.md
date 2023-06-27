@@ -33,5 +33,10 @@ c = a + b
 print("Your summary is: ", c)
 ```
 ![step2](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%202.png)
+
+## Create iPython Shell and Export requirements.txt
+
+![step3](https://github.com/nick-vns/python_tests/tree/main/Exercise%201.1)
+![step4](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%205.png)
  
  
