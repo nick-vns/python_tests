@@ -17,4 +17,19 @@
  Python Version 3.8.7, check using python3 --version. Created Virtual Environment named "cf-python-base".
 
  ![step1](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%201.png)
+
+ ## Create Simple Script 
+# user's input 1
+a = int(input("Enter a number: "))
+
+# user's input 22
+b = int(input("Enter a number: "))
+
+# combine value
+c = a + b
+
+# recieve output
+print("Your summary is: ", c)
+
+ 
  
