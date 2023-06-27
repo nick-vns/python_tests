@@ -32,6 +32,6 @@ c = a + b
 # recieve output
 print("Your summary is: ", c)
 ```
-
+![step2](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%202.png)
  
  
