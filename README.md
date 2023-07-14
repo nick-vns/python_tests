@@ -10,3 +10,9 @@ Full-stack web application using the Django development server with command-line
 + Allow users to search for recipes by ingredient
 + Rate each recipe based on difficulty
 + Display recipe details, including ingredients, cooking time, and difficulty, when prompted by the user
+
+## Tools
+
++ IPython
++ Django
++ Heroku
