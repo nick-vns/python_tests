@@ -1,43 +1,18 @@
 # Python_tests
 
-## Table of Contents
+## Description 
 
-1. Exercise 1.1
+Full-stack web application using the Django development server with command-line version of a Recipe application.
 
-## Exercise 1.1
+## Features 
 
-1. Install Python
-2. Set Up Virtual Environment
-3. Create Simple Script
-4. Create iPython Shell
-5. Export requirements.txt
++ Enable users to create and modify recipes on a locally hosted MySQL database
++ Allow users to search for recipes by ingredient
++ Rate each recipe based on difficulty
++ Display recipe details, including ingredients, cooking time, and difficulty, when prompted by the user
 
- ## Install Python and Set Up Virtual Environment
+## Tools
 
- Python Version 3.8.7, check using python3 --version. Created Virtual Environment named "cf-python-base".
-
- ![step1](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%201.png)
-
- ## Create Simple Script 
-``` 
-# user's input 1
-a = int(input("Enter a number: "))
-
-# user's input 22
-b = int(input("Enter a number: "))
-
-# combine value
-c = a + b
-
-# recieve output
-print("Your summary is: ", c)
-```
-![step2](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%202.png)
-
-## Create iPython Shell and Export requirements.txt
-Set up iPython shell for cf-python-base using pip to install.
-![step3](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%203.png)
-Generated requirements.txt from cf-python-base and install it to a new created environment cf-python-copy.
-![step4](https://github.com/nick-vns/python_tests/blob/main/Exercise%201.1/step%205.png)
- 
- 
++ IPython
++ Django
++ Heroku
